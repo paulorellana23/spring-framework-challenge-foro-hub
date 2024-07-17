@@ -67,16 +67,3 @@ Desarrollo basado en los criterios del Challengs 3 Creacion FORO HUB, un aplicat
 | Tecnología | Versión | Descripción                                                                     |
 |------------|---------|---------------------------------------------------------------------------------|
 |SPRINGBOOT       | 3.1.5       | Lenguaje para la logica y consumo api. |
-
-## 🤝 Redes sociales 🤝
-
--  GitHub: https://github.com/Johanlex20
--  LinkedIn: https://www.linkedin.com/in/johanlex20/
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/johanlex20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tomasz-oleksik-03190a189" height="30" width="40" /></a>
-<a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/" height="30" width="40" /></a>
-</p>
-
-
